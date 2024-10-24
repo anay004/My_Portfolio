@@ -37,6 +37,9 @@ class HomePage extends StatelessWidget {
             ),
           ),
           SizedBox(child: Text("Anay Chowdhury",style: TextStyle(color: Colors.teal, fontSize: 20, fontWeight: FontWeight.bold),  )),
+          SizedBox(height: 10,),
+          SizedBox(child: Text("01791621773 , anaychowdhury10@gmail.com",style: TextStyle(color: Colors.teal, fontSize: 20, fontWeight: FontWeight.bold),  )),
+
           SizedBox(height: 20,),
 
           Container(
